@@ -29,7 +29,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   status-website:
-    theme: light
+    theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
