@@ -13,6 +13,10 @@ sites:
     url: https://pagure.io/
   - name: openSUSE Bar
     url: https://meet.opensuse.org/
+  - name: element.io
+    url: https://app.element.io/
+  - name: CentOS Koji
+    url: https://koji.mbox.centos.org/koji/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
