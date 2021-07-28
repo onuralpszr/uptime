@@ -17,6 +17,8 @@ sites:
     url: https://app.element.io/
   - name: CentOS Koji
     url: https://koji.mbox.centos.org/koji/
+  - name: Fedora Koji
+    url: https://koji.fedoraproject.org/koji/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
