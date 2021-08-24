@@ -130,17 +130,19 @@
     "url": "https://koji.fedoraproject.org/koji/",
     "icon": "https://favicons.githubusercontent.com/koji.fedoraproject.org",
     "slug": "fedora-koji",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 240,
-    "timeWeek": 261,
-    "timeMonth": 275,
-    "timeYear": 275,
-    "dailyMinutesDown": {}
+    "time": 732,
+    "timeDay": 6894,
+    "timeWeek": 1922,
+    "timeMonth": 732,
+    "timeYear": 732,
+    "dailyMinutesDown": {
+      "2021-08-24": 0
+    }
   }
 ]
