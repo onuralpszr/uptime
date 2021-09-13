@@ -112,9 +112,9 @@
     "url": "https://koji.mbox.centos.org/koji/",
     "icon": "https://favicons.githubusercontent.com/koji.mbox.centos.org",
     "slug": "cent-os-koji",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +123,9 @@
     "timeWeek": 643,
     "timeMonth": 566,
     "timeYear": 519,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-13": 0
+    }
   },
   {
     "name": "Fedora Koji",
