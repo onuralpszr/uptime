@@ -58,9 +58,9 @@
     "url": "https://pagure.io/",
     "icon": "https://favicons.githubusercontent.com/pagure.io",
     "slug": "pagure-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 2659,
     "timeMonth": 1252,
     "timeYear": 890,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-03": 0
+    }
   },
   {
     "name": "openSUSE Bar",
@@ -120,7 +122,7 @@
     "uptimeYear": "99.96%",
     "time": 569,
     "timeDay": 393,
-    "timeWeek": 820,
+    "timeWeek": 614,
     "timeMonth": 672,
     "timeYear": 569,
     "dailyMinutesDown": {
