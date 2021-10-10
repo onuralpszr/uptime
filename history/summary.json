@@ -76,9 +76,9 @@
     "url": "https://meet.opensuse.org/",
     "icon": "https://favicons.githubusercontent.com/meet.opensuse.org",
     "slug": "open-suse-bar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 1086,
     "timeMonth": 988,
     "timeYear": 892,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-10": 0
+    }
   },
   {
     "name": "element.io",
@@ -133,11 +135,11 @@
     "icon": "https://favicons.githubusercontent.com/koji.fedoraproject.org",
     "slug": "fedora-koji",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.78%",
     "time": 455,
     "timeDay": 191,
     "timeWeek": 374,
