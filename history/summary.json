@@ -78,9 +78,9 @@
     "url": "https://meet.opensuse.org/",
     "icon": "https://favicons.githubusercontent.com/meet.opensuse.org",
     "slug": "open-suse-bar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 977,
     "timeMonth": 1040,
     "timeYear": 922,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-28": 0
+    }
   },
   {
     "name": "element.io",
