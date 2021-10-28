@@ -78,19 +78,19 @@
     "url": "https://meet.opensuse.org/",
     "icon": "https://favicons.githubusercontent.com/meet.opensuse.org",
     "slug": "open-suse-bar",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 922,
-    "timeDay": 1726,
-    "timeWeek": 977,
-    "timeMonth": 1040,
-    "timeYear": 922,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 921,
+    "timeDay": 1244,
+    "timeWeek": 950,
+    "timeMonth": 1031,
+    "timeYear": 921,
     "dailyMinutesDown": {
-      "2021-10-28": 0
+      "2021-10-28": 9
     }
   },
   {
