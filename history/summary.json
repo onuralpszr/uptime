@@ -58,10 +58,10 @@
     "url": "https://pagure.io/",
     "icon": "https://favicons.githubusercontent.com/pagure.io",
     "slug": "pagure-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.96%",
     "time": 1019,
@@ -70,6 +70,7 @@
     "timeMonth": 1361,
     "timeYear": 1019,
     "dailyMinutesDown": {
+      "2021-11-02": 1,
       "2021-10-11": 62
     }
   },
