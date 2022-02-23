@@ -1,7 +1,7 @@
 url: https://start.fedoraproject.org/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-02-23T09:31:05.329Z
+status: up
+code: 200
+responseTime: 345
+lastUpdated: 2022-02-23T09:39:26.630Z
 startTime: Tue Jul 06 2021 20:28:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
