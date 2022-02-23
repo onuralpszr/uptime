@@ -40,9 +40,9 @@
     "url": "https://start.fedoraproject.org/",
     "icon": "https://favicons.githubusercontent.com/start.fedoraproject.org",
     "slug": "start-fedora-project",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 285,
     "timeMonth": 273,
     "timeYear": 325,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-23": 0
+    }
   },
   {
     "name": "Pagure.io",
@@ -149,7 +151,7 @@
     "uptimeYear": "99.85%",
     "time": 447,
     "timeDay": 342,
-    "timeWeek": 342,
+    "timeWeek": 336,
     "timeMonth": 649,
     "timeYear": 447,
     "dailyMinutesDown": {
