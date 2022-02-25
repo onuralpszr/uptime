@@ -4,9 +4,9 @@
     "url": "https://getfedora.org/",
     "icon": "https://favicons.githubusercontent.com/getfedora.org",
     "slug": "fedora-project",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 380,
     "timeMonth": 361,
     "timeYear": 344,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-25": 0
+    }
   },
   {
     "name": "RPMFusion",
