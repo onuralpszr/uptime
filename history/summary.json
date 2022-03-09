@@ -69,7 +69,7 @@
     "time": 1244,
     "timeDay": 813,
     "timeWeek": 720,
-    "timeMonth": 2277,
+    "timeMonth": 1549,
     "timeYear": 1244,
     "dailyMinutesDown": {
       "2022-02-14": 30,
@@ -81,9 +81,9 @@
     "url": "https://meet.opensuse.org/",
     "icon": "https://favicons.githubusercontent.com/meet.opensuse.org",
     "slug": "open-suse-bar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -93,6 +93,7 @@
     "timeMonth": 988,
     "timeYear": 1030,
     "dailyMinutesDown": {
+      "2022-03-09": 0,
       "2021-12-21": 22,
       "2021-11-18": 34,
       "2021-11-17": 5
