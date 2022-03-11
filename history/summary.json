@@ -40,9 +40,9 @@
     "url": "https://start.fedoraproject.org/",
     "icon": "https://favicons.githubusercontent.com/start.fedoraproject.org",
     "slug": "start-fedora-project",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -52,6 +52,7 @@
     "timeMonth": 311,
     "timeYear": 326,
     "dailyMinutesDown": {
+      "2022-03-11": 0,
       "2022-03-05": 20
     }
   },
