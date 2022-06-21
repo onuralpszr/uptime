@@ -8,12 +8,12 @@
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.37%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "99.92%",
     "time": 349,
     "timeDay": 274,
     "timeWeek": 337,
-    "timeMonth": 331,
+    "timeMonth": 330,
     "timeYear": 349,
     "dailyMinutesDown": {
       "2022-05-23": 67,
@@ -47,11 +47,11 @@
     "icon": "https://favicons.githubusercontent.com/start.fedoraproject.org",
     "slug": "start-fedora-project",
     "status": "up",
-    "uptime": "81.69%",
+    "uptime": "81.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.69%",
+    "uptimeYear": "81.70%",
     "time": 343,
     "timeDay": 254,
     "timeWeek": 972,
@@ -184,9 +184,9 @@
     "url": "https://app.element.io/",
     "icon": "https://favicons.githubusercontent.com/app.element.io",
     "slug": "element-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -195,7 +195,9 @@
     "timeWeek": 308,
     "timeMonth": 255,
     "timeYear": 485,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "CentOS Koji",
