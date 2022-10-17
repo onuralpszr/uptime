@@ -30,9 +30,9 @@
     "url": "https://rpmfusion.org/",
     "icon": "https://icons.duckduckgo.com/ip3/rpmfusion.org.ico",
     "slug": "rpm-fusion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
@@ -42,6 +42,7 @@
     "timeMonth": 1828,
     "timeYear": 1202,
     "dailyMinutesDown": {
+      "2022-10-17": 0,
       "2022-10-14": 25,
       "2022-09-30": 16,
       "2022-09-15": 38
@@ -53,7 +54,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/start.fedoraproject.org.ico",
     "slug": "start-fedora-project",
     "status": "up",
-    "uptime": "86.31%",
+    "uptime": "86.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
