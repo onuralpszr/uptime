@@ -13,7 +13,7 @@
     "time": 397,
     "timeDay": 434,
     "timeWeek": 373,
-    "timeMonth": 325,
+    "timeMonth": 327,
     "timeYear": 411,
     "dailyMinutesDown": {
       "2022-09-28": 25,
@@ -61,11 +61,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.03%",
+    "uptimeYear": "86.05%",
     "time": 412,
     "timeDay": 521,
     "timeWeek": 367,
-    "timeMonth": 281,
+    "timeMonth": 279,
     "timeYear": 410,
     "dailyMinutesDown": {
       "2022-10-24": 55,
@@ -122,8 +122,7 @@
       "2022-04-03": 1440,
       "2022-04-02": 1440,
       "2022-04-01": 1440,
-      "2022-03-31": 1440,
-      "2022-03-30": 1440
+      "2022-03-31": 1440
     }
   },
   {
@@ -133,17 +132,16 @@
     "slug": "pagure-io",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 1160,
     "timeDay": 381,
     "timeWeek": 601,
-    "timeMonth": 1080,
+    "timeMonth": 1069,
     "timeYear": 1077,
     "dailyMinutesDown": {
-      "2023-03-29": 8,
       "2023-02-03": 31,
       "2023-01-31": 65,
       "2023-01-25": 17,
@@ -161,8 +159,7 @@
       "2022-06-05": 21,
       "2022-05-20": 18,
       "2022-04-28": 302,
-      "2022-04-27": 160,
-      "2022-03-30": 57
+      "2022-04-27": 160
     }
   },
   {
@@ -179,7 +176,7 @@
     "time": 1053,
     "timeDay": 666,
     "timeWeek": 1404,
-    "timeMonth": 1272,
+    "timeMonth": 1258,
     "timeYear": 1017,
     "dailyMinutesDown": {
       "2023-02-24": 73,
@@ -201,7 +198,7 @@
     "time": 340,
     "timeDay": 298,
     "timeWeek": 296,
-    "timeMonth": 239,
+    "timeMonth": 238,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2022-06-30": 69,
@@ -223,7 +220,7 @@
     "time": 653,
     "timeDay": 308,
     "timeWeek": 369,
-    "timeMonth": 422,
+    "timeMonth": 426,
     "timeYear": 666,
     "dailyMinutesDown": {
       "2023-03-09": 20,
@@ -236,8 +233,7 @@
       "2022-06-12": 121,
       "2022-06-09": 19,
       "2022-05-27": 23,
-      "2022-05-13": 22,
-      "2022-03-30": 21
+      "2022-05-13": 22
     }
   },
   {
@@ -247,17 +243,16 @@
     "slug": "fedora-koji",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.88%",
     "time": 447,
     "timeDay": 1357,
     "timeWeek": 614,
-    "timeMonth": 403,
+    "timeMonth": 408,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2023-03-29": 7,
       "2023-03-21": 16,
       "2022-11-16": 215,
       "2022-10-24": 55,
