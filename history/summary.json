@@ -4,9 +4,9 @@
     "url": "https://getfedora.org/",
     "icon": "https://icons.duckduckgo.com/ip3/getfedora.org.ico",
     "slug": "fedora-project",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 1011,
     "timeYear": 520,
     "dailyMinutesDown": {
+      "2023-06-26": 0,
       "2023-06-14": 132,
       "2022-09-28": 25,
       "2022-09-27": 30
@@ -54,7 +55,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/start.fedoraproject.org.ico",
     "slug": "start-fedora-project",
     "status": "up",
-    "uptime": "91.09%",
+    "uptime": "91.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
