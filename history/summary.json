@@ -214,18 +214,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/meet-test.opensuse.org.ico",
     "slug": "meet-test-open-suse-jitsi-server",
     "status": "down",
-    "uptime": "37.13%",
-    "uptimeDay": "37.13%",
-    "uptimeWeek": "37.13%",
-    "uptimeMonth": "37.13%",
-    "uptimeYear": "37.13%",
+    "uptime": "23.55%",
+    "uptimeDay": "23.55%",
+    "uptimeWeek": "23.55%",
+    "uptimeMonth": "23.55%",
+    "uptimeYear": "23.55%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-12": 0
+      "2023-07-12": 1
     }
   }
 ]
