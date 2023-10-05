@@ -14,7 +14,7 @@
     "timeDay": 532,
     "timeWeek": 651,
     "timeMonth": 716,
-    "timeYear": 646,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2023-06-14": 132
     }
@@ -26,9 +26,9 @@
     "slug": "rpm-fusion",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "93.32%",
-    "uptimeWeek": "98.46%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "93.76%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.79%",
     "time": 1312,
     "timeDay": 1099,
@@ -36,7 +36,7 @@
     "timeMonth": 1815,
     "timeYear": 1361,
     "dailyMinutesDown": {
-      "2023-10-04": 96,
+      "2023-10-04": 90,
       "2023-09-28": 59,
       "2023-07-16": 174,
       "2023-07-15": 78,
@@ -64,7 +64,7 @@
     "timeDay": 105,
     "timeWeek": 247,
     "timeMonth": 239,
-    "timeYear": 442,
+    "timeYear": 443,
     "dailyMinutesDown": {
       "2023-07-21": 148,
       "2023-06-14": 53,
@@ -126,7 +126,7 @@
     "timeDay": 1493,
     "timeWeek": 909,
     "timeMonth": 950,
-    "timeYear": 1053,
+    "timeYear": 1052,
     "dailyMinutesDown": {
       "2023-07-05": 86,
       "2023-02-24": 73,
@@ -193,7 +193,7 @@
     "timeDay": 205,
     "timeWeek": 346,
     "timeMonth": 341,
-    "timeYear": 649,
+    "timeYear": 650,
     "dailyMinutesDown": {
       "2023-09-11": 68,
       "2023-08-30": 20,
@@ -228,7 +228,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-04": 1396,
+      "2023-10-05": 61,
+      "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
