@@ -14,7 +14,7 @@
     "timeDay": 781,
     "timeWeek": 667,
     "timeMonth": 764,
-    "timeYear": 657,
+    "timeYear": 658,
     "dailyMinutesDown": {
       "2023-06-14": 132
     }
@@ -29,12 +29,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.79%",
     "time": 1309,
     "timeDay": 797,
     "timeWeek": 901,
     "timeMonth": 1654,
-    "timeYear": 1346,
+    "timeYear": 1349,
     "dailyMinutesDown": {
       "2023-10-06": 49,
       "2023-10-04": 90,
@@ -55,7 +55,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/start.fedoraproject.org.ico",
     "slug": "start-fedora-project",
     "status": "up",
-    "uptime": "92.26%",
+    "uptime": "92.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -86,8 +86,8 @@
     "time": 1030,
     "timeDay": 408,
     "timeWeek": 4412,
-    "timeMonth": 1658,
-    "timeYear": 992,
+    "timeMonth": 1683,
+    "timeYear": 993,
     "dailyMinutesDown": {
       "2023-10-05": 21,
       "2023-09-09": 21,
@@ -117,18 +117,19 @@
     "url": "https://meet.opensuse.org/",
     "icon": "https://icons.duckduckgo.com/ip3/meet.opensuse.org.ico",
     "slug": "open-suse-bar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.97%",
     "time": 1032,
     "timeDay": 630,
     "timeWeek": 868,
     "timeMonth": 932,
-    "timeYear": 1048,
+    "timeYear": 1047,
     "dailyMinutesDown": {
+      "2023-10-14": 1,
       "2023-07-05": 86,
       "2023-02-24": 73
     }
@@ -148,7 +149,7 @@
     "timeDay": 294,
     "timeWeek": 319,
     "timeMonth": 342,
-    "timeYear": 335,
+    "timeYear": 336,
     "dailyMinutesDown": {}
   },
   {
@@ -165,8 +166,8 @@
     "time": 595,
     "timeDay": 93,
     "timeWeek": 227,
-    "timeMonth": 348,
-    "timeYear": 540,
+    "timeMonth": 349,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2023-10-05": 20,
       "2023-10-02": 513,
@@ -193,7 +194,7 @@
     "timeDay": 93,
     "timeWeek": 269,
     "timeMonth": 338,
-    "timeYear": 645,
+    "timeYear": 646,
     "dailyMinutesDown": {
       "2023-10-10": 16,
       "2023-09-11": 68,
@@ -229,7 +230,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-14": 59,
+      "2023-10-14": 1184,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
