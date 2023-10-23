@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 597,
-    "timeDay": 757,
-    "timeWeek": 562,
-    "timeMonth": 696,
+    "timeDay": 592,
+    "timeWeek": 578,
+    "timeMonth": 694,
     "timeYear": 664,
     "dailyMinutesDown": {
       "2023-06-14": 132
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.79%",
-    "time": 1347,
-    "timeDay": 970,
-    "timeWeek": 2949,
-    "timeMonth": 2126,
-    "timeYear": 1390,
+    "time": 1348,
+    "timeDay": 1121,
+    "timeWeek": 2968,
+    "timeMonth": 1599,
+    "timeYear": 1389,
     "dailyMinutesDown": {
       "2023-10-19": 64,
       "2023-10-06": 49,
@@ -55,21 +55,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/start.fedoraproject.org.ico",
     "slug": "start-fedora-project",
     "status": "up",
-    "uptime": "92.34%",
+    "uptime": "92.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 464,
-    "timeDay": 246,
-    "timeWeek": 200,
-    "timeMonth": 239,
-    "timeYear": 442,
+    "timeDay": 244,
+    "timeWeek": 174,
+    "timeMonth": 237,
+    "timeYear": 439,
     "dailyMinutesDown": {
       "2023-07-21": 148,
       "2023-06-14": 53,
-      "2022-10-24": 55,
-      "2022-10-23": 7
+      "2022-10-24": 55
     }
   },
   {
@@ -84,9 +83,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.88%",
     "time": 998,
-    "timeDay": 689,
+    "timeDay": 650,
     "timeWeek": 585,
-    "timeMonth": 1592,
+    "timeMonth": 1589,
     "timeYear": 993,
     "dailyMinutesDown": {
       "2023-10-05": 21,
@@ -123,10 +122,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.95%",
-    "time": 1033,
-    "timeDay": 803,
-    "timeWeek": 900,
-    "timeMonth": 912,
+    "time": 1034,
+    "timeDay": 862,
+    "timeWeek": 928,
+    "timeMonth": 908,
     "timeYear": 1047,
     "dailyMinutesDown": {
       "2023-10-14": 127,
@@ -145,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 378,
-    "timeWeek": 324,
-    "timeMonth": 316,
-    "timeYear": 339,
+    "time": 319,
+    "timeDay": 399,
+    "timeWeek": 341,
+    "timeMonth": 315,
+    "timeYear": 338,
     "dailyMinutesDown": {}
   },
   {
@@ -163,11 +162,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.67%",
     "uptimeYear": "99.75%",
-    "time": 585,
-    "timeDay": 260,
-    "timeWeek": 255,
+    "time": 583,
+    "timeDay": 322,
+    "timeWeek": 283,
     "timeMonth": 300,
-    "timeYear": 536,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2023-10-05": 20,
       "2023-10-02": 513,
@@ -190,11 +189,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.70%",
-    "time": 585,
-    "timeDay": 229,
-    "timeWeek": 172,
+    "time": 584,
+    "timeDay": 279,
+    "timeWeek": 195,
     "timeMonth": 292,
-    "timeYear": 639,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2023-10-10": 16,
       "2023-09-11": 68,
@@ -209,8 +208,7 @@
       "2023-05-17": 74,
       "2023-03-21": 16,
       "2022-11-16": 215,
-      "2022-10-24": 55,
-      "2022-10-23": 93
+      "2022-10-24": 55
     }
   }
 ]
