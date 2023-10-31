@@ -19,6 +19,8 @@ sites:
     url: https://koji.mbox.centos.org/koji/
   - name: Fedora Koji
     url: https://koji.fedoraproject.org/koji/
+  - name Github Stats
+    url: https://ghstats.onuralpsezer.com/
 
 
 status-website:
