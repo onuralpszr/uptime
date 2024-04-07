@@ -242,19 +242,19 @@
     "url": "https://ghstats.onuralpsezer.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ghstats.onuralpsezer.com.ico",
     "slug": "github-stats",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1997,
-    "timeDay": 1475,
-    "timeWeek": 2037,
-    "timeMonth": 1828,
-    "timeYear": 1997,
+    "time": 1986,
+    "timeDay": 860,
+    "timeWeek": 1813,
+    "timeMonth": 1778,
+    "timeYear": 1986,
     "dailyMinutesDown": {
-      "2024-04-07": 0
+      "2024-04-07": 5
     }
   }
 ]
