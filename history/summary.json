@@ -14,7 +14,7 @@
     "timeDay": 5858,
     "timeWeek": 1321,
     "timeMonth": 848,
-    "timeYear": 887,
+    "timeYear": 889,
     "dailyMinutesDown": {
       "2023-06-14": 132
     }
@@ -34,7 +34,7 @@
     "timeDay": 990,
     "timeWeek": 1085,
     "timeMonth": 1098,
-    "timeYear": 1413,
+    "timeYear": 1414,
     "dailyMinutesDown": {
       "2024-02-24": 21,
       "2023-11-12": 35,
@@ -68,7 +68,7 @@
     "timeDay": 384,
     "timeWeek": 1008,
     "timeMonth": 612,
-    "timeYear": 508,
+    "timeYear": 494,
     "dailyMinutesDown": {
       "2024-03-10": 19,
       "2023-07-21": 148,
@@ -90,7 +90,7 @@
     "timeDay": 829,
     "timeWeek": 1560,
     "timeMonth": 1576,
-    "timeYear": 1282,
+    "timeYear": 1283,
     "dailyMinutesDown": {
       "2024-05-14": 16,
       "2024-05-10": 26,
@@ -171,7 +171,7 @@
     "timeDay": 481,
     "timeWeek": 417,
     "timeMonth": 390,
-    "timeYear": 381,
+    "timeYear": 377,
     "dailyMinutesDown": {}
   },
   {
@@ -189,7 +189,7 @@
     "timeDay": 234,
     "timeWeek": 382,
     "timeMonth": 429,
-    "timeYear": 403,
+    "timeYear": 404,
     "dailyMinutesDown": {
       "2024-05-14": 15,
       "2024-04-11": 44,
@@ -212,17 +212,17 @@
     "slug": "fedora-koji",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.59%",
     "time": 883,
     "timeDay": 3762,
     "timeWeek": 2305,
     "timeMonth": 930,
-    "timeYear": 1000,
+    "timeYear": 995,
     "dailyMinutesDown": {
-      "2024-05-15": 19,
+      "2024-05-15": 16,
       "2024-04-14": 185,
       "2024-04-01": 15,
       "2024-03-31": 82,
@@ -243,8 +243,7 @@
       "2023-06-11": 31,
       "2023-06-02": 200,
       "2023-06-01": 556,
-      "2023-05-18": 24,
-      "2023-05-17": 74
+      "2023-05-18": 24
     }
   },
   {
