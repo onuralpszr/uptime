@@ -24,9 +24,9 @@
     "url": "https://rpmfusion.org/",
     "icon": "https://icons.duckduckgo.com/ip3/rpmfusion.org.ico",
     "slug": "rpm-fusion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
@@ -36,6 +36,7 @@
     "timeMonth": 1792,
     "timeYear": 1473,
     "dailyMinutesDown": {
+      "2024-06-07": 0,
       "2024-02-24": 21,
       "2023-11-12": 35,
       "2023-11-11": 6,
@@ -66,7 +67,7 @@
     "uptimeYear": "99.96%",
     "time": 504,
     "timeDay": 318,
-    "timeWeek": 601,
+    "timeWeek": 625,
     "timeMonth": 692,
     "timeYear": 509,
     "dailyMinutesDown": {
