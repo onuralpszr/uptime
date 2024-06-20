@@ -159,19 +159,19 @@
     "url": "https://app.element.io/",
     "icon": "https://icons.duckduckgo.com/ip3/app.element.io.ico",
     "slug": "element-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 361,
-    "timeDay": 405,
-    "timeWeek": 252,
-    "timeMonth": 342,
-    "timeYear": 369,
+    "time": 362,
+    "timeDay": 440,
+    "timeWeek": 280,
+    "timeMonth": 347,
+    "timeYear": 370,
     "dailyMinutesDown": {
-      "2024-06-20": 0
+      "2024-06-20": 6
     }
   },
   {
