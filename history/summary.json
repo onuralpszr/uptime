@@ -161,18 +161,16 @@
     "slug": "element-io",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 362,
     "timeDay": 440,
     "timeWeek": 280,
     "timeMonth": 347,
     "timeYear": 370,
-    "dailyMinutesDown": {
-      "2024-06-20": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CentOS Koji",
