@@ -79,12 +79,12 @@
     "status": "up",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.73%",
     "time": 1284,
     "timeDay": 441,
-    "timeWeek": 2275,
+    "timeWeek": 867,
     "timeMonth": 1637,
     "timeYear": 1383,
     "dailyMinutesDown": {
@@ -244,17 +244,19 @@
     "url": "https://ghstats.onuralpsezer.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ghstats.onuralpsezer.com.ico",
     "slug": "github-stats",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2059,
-    "timeDay": 1755,
-    "timeWeek": 2006,
-    "timeMonth": 2223,
-    "timeYear": 2059,
-    "dailyMinutesDown": {}
+    "time": 2051,
+    "timeDay": 945,
+    "timeWeek": 1772,
+    "timeMonth": 2158,
+    "timeYear": 2051,
+    "dailyMinutesDown": {
+      "2024-06-27": 0
+    }
   }
 ]
