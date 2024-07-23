@@ -30,7 +30,7 @@
     "uptimeYear": "99.92%",
     "time": 1372,
     "timeDay": 1003,
-    "timeWeek": 1125,
+    "timeWeek": 1131,
     "timeMonth": 1126,
     "timeYear": 1348,
     "dailyMinutesDown": {
@@ -120,9 +120,9 @@
     "url": "https://meet.opensuse.org/",
     "icon": "https://icons.duckduckgo.com/ip3/meet.opensuse.org.ico",
     "slug": "open-suse-bar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "98.05%",
@@ -132,6 +132,7 @@
     "timeMonth": 966,
     "timeYear": 1320,
     "dailyMinutesDown": {
+      "2024-07-23": 0,
       "2024-07-19": 36,
       "2024-07-11": 27,
       "2024-04-27": 19,
