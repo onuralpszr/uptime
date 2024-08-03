@@ -1,7 +1,7 @@
 url: https://rpmfusion.org/
-status: up
-code: 200
-responseTime: 829
-lastUpdated: 2024-08-03T16:33:08.883Z
+status: down
+code: 503
+responseTime: 775
+lastUpdated: 2024-08-03T16:41:23.740Z
 startTime: 2021-07-06T20:28:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
