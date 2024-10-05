@@ -32,7 +32,7 @@
     "timeDay": 4695,
     "timeWeek": 1736,
     "timeMonth": 1306,
-    "timeYear": 1383,
+    "timeYear": 1384,
     "dailyMinutesDown": {
       "2024-02-24": 21,
       "2023-11-12": 35,
@@ -49,9 +49,9 @@
     "url": "https://start.fedoraproject.org/",
     "icon": "https://icons.duckduckgo.com/ip3/start.fedoraproject.org.ico",
     "slug": "start-fedora-project",
-    "status": "up",
+    "status": "down",
     "uptime": "94.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -61,6 +61,7 @@
     "timeMonth": 477,
     "timeYear": 524,
     "dailyMinutesDown": {
+      "2024-10-05": 0,
       "2024-03-10": 19
     }
   },
@@ -79,7 +80,7 @@
     "timeDay": 543,
     "timeWeek": 688,
     "timeMonth": 649,
-    "timeYear": 1561,
+    "timeYear": 1564,
     "dailyMinutesDown": {
       "2024-08-26": 17,
       "2024-08-01": 23,
@@ -165,14 +166,14 @@
     "status": "up",
     "uptime": "96.31%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "64.00%",
-    "uptimeMonth": "16.11%",
-    "uptimeYear": "88.54%",
+    "uptimeWeek": "75.68%",
+    "uptimeMonth": "18.80%",
+    "uptimeYear": "88.55%",
     "time": 406,
     "timeDay": 295,
     "timeWeek": 444,
     "timeMonth": 444,
-    "timeYear": 392,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2024-09-30": 769,
       "2024-09-29": 1440,
