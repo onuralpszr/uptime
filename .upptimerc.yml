@@ -21,7 +21,8 @@ sites:
     url: https://koji.fedoraproject.org/koji/
   - name: Github Stats
     url: https://ghstats.onuralpsezer.com/
-
+  - name: GDGSamsun Website
+    url: https://gdgsamsun.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
