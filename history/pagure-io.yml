@@ -1,7 +1,7 @@
 url: https://pagure.io/
-status: down
-code: 503
-responseTime: 15230
-lastUpdated: 2024-11-13T10:46:44.014Z
+status: up
+code: 200
+responseTime: 740
+lastUpdated: 2024-11-13T10:59:28.830Z
 startTime: 2021-07-06T20:28:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
