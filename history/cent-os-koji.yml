@@ -1,7 +1,7 @@
 url: https://koji.mbox.centos.org/koji/
-status: down
-code: 503
-responseTime: 170
-lastUpdated: 2024-12-21T15:59:02.227Z
+status: up
+code: 200
+responseTime: 751
+lastUpdated: 2024-12-21T16:19:57.317Z
 startTime: 2021-07-28T19:15:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
