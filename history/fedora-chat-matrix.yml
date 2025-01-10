@@ -1,7 +1,7 @@
 url: https://chat.fedoraproject.org/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-10T23:05:21.780Z
+status: up
+code: 200
+responseTime: 328
+lastUpdated: 2025-01-10T23:57:20.543Z
 startTime: 2024-12-29T20:07:46.611Z
 generator: Upptime <https://github.com/upptime/upptime>
