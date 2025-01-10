@@ -16,7 +16,7 @@
     "timeMonth": 130,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2025-01-10": 842,
+      "2025-01-10": 1293,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
@@ -147,10 +147,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/pagure.io.ico",
     "slug": "pagure-io",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.93%",
+    "uptime": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.75%",
     "time": 1973,
     "timeDay": 5611,
@@ -158,7 +158,6 @@
     "timeMonth": 1625,
     "timeYear": 2245,
     "dailyMinutesDown": {
-      "2025-01-10": 14,
       "2024-12-18": 15,
       "2024-11-13": 115,
       "2024-11-12": 25,
@@ -199,7 +198,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/meet.opensuse.org.ico",
     "slug": "open-suse-bar",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -208,7 +207,7 @@
     "timeDay": 1056,
     "timeWeek": 1227,
     "timeMonth": 1189,
-    "timeYear": 1254,
+    "timeYear": 1241,
     "dailyMinutesDown": {
       "2024-07-23": 314,
       "2024-07-19": 36,
@@ -239,9 +238,9 @@
     "url": "https://chat.fedoraproject.org/",
     "icon": "https://icons.duckduckgo.com/ip3/chat.fedoraproject.org.ico",
     "slug": "fedora-chat-matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -250,7 +249,9 @@
     "timeWeek": 310,
     "timeMonth": 323,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-10": 0
+    }
   },
   {
     "name": "CentOS Koji",
