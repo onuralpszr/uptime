@@ -16,7 +16,7 @@
     "timeMonth": 151,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2025-06-13": 998,
+      "2025-06-13": 1009,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
@@ -285,19 +285,19 @@
     "url": "https://start.fedoraproject.org/",
     "icon": "https://icons.duckduckgo.com/ip3/start.fedoraproject.org.ico",
     "slug": "start-fedora-project",
-    "status": "down",
+    "status": "up",
     "uptime": "95.54%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 687,
-    "timeDay": 614,
-    "timeWeek": 1183,
-    "timeMonth": 991,
-    "timeYear": 706,
+    "time": 685,
+    "timeDay": 492,
+    "timeWeek": 1079,
+    "timeMonth": 969,
+    "timeYear": 705,
     "dailyMinutesDown": {
-      "2025-06-13": 0
+      "2025-06-13": 11
     }
   },
   {
@@ -422,7 +422,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/koji.mbox.centos.org.ico",
     "slug": "cent-os-koji",
     "status": "down",
-    "uptime": "92.70%",
+    "uptime": "92.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -433,7 +433,7 @@
     "timeMonth": 0,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2025-06-13": 998,
+      "2025-06-13": 1009,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
