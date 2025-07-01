@@ -16,7 +16,7 @@
     "timeMonth": 165,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2025-07-01": 935,
+      "2025-07-01": 944,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
@@ -303,19 +303,19 @@
     "url": "https://start.fedoraproject.org/",
     "icon": "https://icons.duckduckgo.com/ip3/start.fedoraproject.org.ico",
     "slug": "start-fedora-project",
-    "status": "down",
+    "status": "up",
     "uptime": "95.59%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 715,
-    "timeDay": 2564,
-    "timeWeek": 1810,
-    "timeMonth": 1219,
-    "timeYear": 753,
+    "timeDay": 2122,
+    "timeWeek": 1677,
+    "timeMonth": 1195,
+    "timeYear": 752,
     "dailyMinutesDown": {
-      "2025-07-01": 2
+      "2025-07-01": 9
     }
   },
   {
@@ -452,7 +452,7 @@
     "timeMonth": 0,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2025-07-01": 935,
+      "2025-07-01": 944,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
@@ -590,9 +590,9 @@
     "slug": "fedora-koji",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "77.51%",
-    "uptimeWeek": "96.79%",
-    "uptimeMonth": "99.26%",
+    "uptimeDay": "76.90%",
+    "uptimeWeek": "96.70%",
+    "uptimeMonth": "99.24%",
     "uptimeYear": "99.63%",
     "time": 1173,
     "timeDay": 204,
@@ -600,7 +600,7 @@
     "timeMonth": 467,
     "timeYear": 1176,
     "dailyMinutesDown": {
-      "2025-07-01": 324,
+      "2025-07-01": 333,
       "2025-05-23": 35,
       "2025-04-15": 117,
       "2025-03-27": 29,
