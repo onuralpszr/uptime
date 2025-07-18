@@ -16,7 +16,7 @@
     "timeMonth": 157,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2025-07-18": 1226,
+      "2025-07-18": 1238,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
@@ -468,7 +468,7 @@
     "timeMonth": 0,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2025-07-18": 1227,
+      "2025-07-18": 1238,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
@@ -660,19 +660,19 @@
     "url": "https://ghstats.onuralpsezer.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ghstats.onuralpsezer.com.ico",
     "slug": "github-stats",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 2007,
-    "timeDay": 665,
-    "timeWeek": 1712,
-    "timeMonth": 1982,
-    "timeYear": 1982,
+    "time": 2004,
+    "timeDay": 586,
+    "timeWeek": 1581,
+    "timeMonth": 1931,
+    "timeYear": 1977,
     "dailyMinutesDown": {
-      "2025-07-18": 1
+      "2025-07-18": 11
     }
   },
   {
