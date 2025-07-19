@@ -16,7 +16,7 @@
     "timeMonth": 155,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2025-07-19": 1386,
+      "2025-07-19": 1399,
       "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
@@ -303,8 +303,8 @@
     "time": 1510,
     "timeDay": 1124,
     "timeWeek": 1272,
-    "timeMonth": 1290,
-    "timeYear": 1573,
+    "timeMonth": 1282,
+    "timeYear": 1572,
     "dailyMinutesDown": {
       "2025-05-26": 36,
       "2025-05-09": 26,
@@ -330,7 +330,7 @@
     "time": 770,
     "timeDay": 912,
     "timeWeek": 965,
-    "timeMonth": 1752,
+    "timeMonth": 1765,
     "timeYear": 861,
     "dailyMinutesDown": {
       "2025-07-04": 21,
@@ -351,7 +351,7 @@
     "time": 2912,
     "timeDay": 2968,
     "timeWeek": 1200,
-    "timeMonth": 4165,
+    "timeMonth": 4228,
     "timeYear": 3069,
     "dailyMinutesDown": {
       "2025-07-08": 67,
@@ -403,7 +403,7 @@
     "time": 1113,
     "timeDay": 627,
     "timeWeek": 1090,
-    "timeMonth": 1019,
+    "timeMonth": 1015,
     "timeYear": 1059,
     "dailyMinutesDown": {
       "2025-05-16": 57,
@@ -424,7 +424,7 @@
     "time": 397,
     "timeDay": 241,
     "timeWeek": 207,
-    "timeMonth": 242,
+    "timeMonth": 245,
     "timeYear": 398,
     "dailyMinutesDown": {
       "2025-02-12": 24,
@@ -445,7 +445,7 @@
     "time": 365,
     "timeDay": 343,
     "timeWeek": 322,
-    "timeMonth": 403,
+    "timeMonth": 402,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2025-01-10": 144
@@ -461,14 +461,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "62.22%",
+    "uptimeYear": "62.21%",
     "time": 466,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 479,
     "dailyMinutesDown": {
-      "2025-07-19": 1387,
+      "2025-07-19": 1399,
       "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
@@ -661,19 +661,19 @@
     "url": "https://ghstats.onuralpsezer.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ghstats.onuralpsezer.com.ico",
     "slug": "github-stats",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 2004,
-    "timeDay": 163,
-    "timeWeek": 1343,
-    "timeMonth": 1885,
-    "timeYear": 1964,
+    "time": 2000,
+    "timeDay": 217,
+    "timeWeek": 1254,
+    "timeMonth": 1801,
+    "timeYear": 1959,
     "dailyMinutesDown": {
-      "2025-07-19": 0
+      "2025-07-19": 12
     }
   },
   {
