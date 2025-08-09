@@ -1,7 +1,7 @@
 url: https://koji.fedoraproject.org/koji/
-status: up
-code: 200
-responseTime: 456
-lastUpdated: 2025-08-09T11:49:55.538Z
+status: down
+code: 503
+responseTime: 15248
+lastUpdated: 2025-08-09T11:57:37.511Z
 startTime: 2021-07-28T19:18:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
