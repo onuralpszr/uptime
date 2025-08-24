@@ -16,7 +16,7 @@
     "timeMonth": 177,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2025-08-24": 561,
+      "2025-08-24": 1123,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
@@ -359,9 +359,9 @@
     "slug": "start-fedora-project",
     "status": "up",
     "uptime": "95.75%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 809,
     "timeDay": 661,
@@ -369,7 +369,6 @@
     "timeMonth": 932,
     "timeYear": 906,
     "dailyMinutesDown": {
-      "2025-08-24": 11,
       "2025-07-04": 21,
       "2025-07-01": 33
     }
@@ -494,7 +493,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/koji.mbox.centos.org.ico",
     "slug": "cent-os-koji",
     "status": "down",
-    "uptime": "88.23%",
+    "uptime": "88.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -505,7 +504,7 @@
     "timeMonth": 0,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2025-08-24": 562,
+      "2025-08-24": 1123,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
@@ -690,9 +689,9 @@
     "slug": "fedora-koji",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "98.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.14%",
     "uptimeYear": "99.02%",
     "time": 1150,
     "timeDay": 320,
@@ -700,7 +699,6 @@
     "timeMonth": 1710,
     "timeYear": 1241,
     "dailyMinutesDown": {
-      "2025-08-24": 10,
       "2025-08-12": 182,
       "2025-08-09": 19,
       "2025-08-04": 613,
@@ -730,18 +728,20 @@
     "url": "https://ghstats.onuralpsezer.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ghstats.onuralpsezer.com.ico",
     "slug": "github-stats",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1963,
-    "timeDay": 2827,
-    "timeWeek": 2037,
-    "timeMonth": 1890,
-    "timeYear": 1896,
-    "dailyMinutesDown": {}
+    "time": 1960,
+    "timeDay": 1529,
+    "timeWeek": 1811,
+    "timeMonth": 1844,
+    "timeYear": 1892,
+    "dailyMinutesDown": {
+      "2025-08-24": 0
+    }
   },
   {
     "name": "GDGSamsun Website",
