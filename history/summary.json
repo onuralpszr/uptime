@@ -16,7 +16,7 @@
     "timeMonth": 187,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-09-07": 1053,
+      "2025-09-07": 1060,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
@@ -517,7 +517,7 @@
     "timeMonth": 0,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2025-09-07": 1054,
+      "2025-09-07": 1060,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
@@ -760,19 +760,19 @@
     "url": "https://gdgsamsun.org",
     "icon": "https://icons.duckduckgo.com/ip3/gdgsamsun.org.ico",
     "slug": "gdg-samsun-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 257,
-    "timeDay": 221,
-    "timeWeek": 248,
-    "timeMonth": 341,
-    "timeYear": 257,
+    "time": 258,
+    "timeDay": 277,
+    "timeWeek": 264,
+    "timeMonth": 342,
+    "timeYear": 258,
     "dailyMinutesDown": {
-      "2025-09-07": 1
+      "2025-09-07": 7
     }
   }
 ]
