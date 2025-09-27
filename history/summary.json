@@ -16,7 +16,7 @@
     "timeMonth": 174,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-09-27": 21,
+      "2025-09-27": 1101,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -528,7 +528,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/koji.mbox.centos.org.ico",
     "slug": "cent-os-koji",
     "status": "down",
-    "uptime": "86.28%",
+    "uptime": "86.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -539,7 +539,7 @@
     "timeMonth": 0,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2025-09-27": 21,
+      "2025-09-27": 1102,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -761,18 +761,20 @@
     "url": "https://ghstats.onuralpsezer.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ghstats.onuralpsezer.com.ico",
     "slug": "github-stats",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1957,
-    "timeDay": 3270,
-    "timeWeek": 2186,
-    "timeMonth": 2045,
-    "timeYear": 1884,
-    "dailyMinutesDown": {}
+    "time": 1954,
+    "timeDay": 1718,
+    "timeWeek": 1934,
+    "timeMonth": 1993,
+    "timeYear": 1880,
+    "dailyMinutesDown": {
+      "2025-09-27": 0
+    }
   },
   {
     "name": "GDGSamsun Website",
