@@ -16,7 +16,7 @@
     "timeMonth": 266,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-10-06": 1178,
+      "2025-10-06": 1185,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
@@ -537,7 +537,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/koji.mbox.centos.org.ico",
     "slug": "cent-os-koji",
     "status": "down",
-    "uptime": "85.73%",
+    "uptime": "85.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -548,7 +548,7 @@
     "timeMonth": 0,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2025-10-06": 1178,
+      "2025-10-06": 1185,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
@@ -775,19 +775,19 @@
     "url": "https://ghstats.onuralpsezer.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ghstats.onuralpsezer.com.ico",
     "slug": "github-stats",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1935,
-    "timeDay": 996,
-    "timeWeek": 1517,
-    "timeMonth": 1931,
-    "timeYear": 1868,
+    "time": 1937,
+    "timeDay": 1769,
+    "timeWeek": 1656,
+    "timeMonth": 1964,
+    "timeYear": 1872,
     "dailyMinutesDown": {
-      "2025-10-06": 0
+      "2025-10-06": 7
     }
   },
   {
