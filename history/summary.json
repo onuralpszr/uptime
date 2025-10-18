@@ -16,7 +16,8 @@
     "timeMonth": 278,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2025-10-17": 1407,
+      "2025-10-18": 21,
+      "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -413,9 +414,9 @@
     "slug": "start-fedora-project",
     "status": "up",
     "uptime": "95.89%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 852,
     "timeDay": 1726,
@@ -423,7 +424,6 @@
     "timeMonth": 1131,
     "timeYear": 978,
     "dailyMinutesDown": {
-      "2025-10-17": 9,
       "2025-07-04": 21,
       "2025-07-01": 33
     }
@@ -552,14 +552,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "48.89%",
+    "uptimeYear": "48.88%",
     "time": 483,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2025-10-17": 1407,
+      "2025-10-18": 21,
+      "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
