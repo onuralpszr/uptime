@@ -16,7 +16,7 @@
     "timeMonth": 278,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2025-10-18": 1250,
+      "2025-10-18": 1257,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
@@ -559,7 +559,7 @@
     "timeMonth": 0,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2025-10-18": 1251,
+      "2025-10-18": 1258,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
@@ -794,19 +794,19 @@
     "url": "https://ghstats.onuralpsezer.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ghstats.onuralpsezer.com.ico",
     "slug": "github-stats",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1936,
-    "timeDay": 1763,
-    "timeWeek": 1730,
-    "timeMonth": 1791,
-    "timeYear": 1852,
+    "time": 1933,
+    "timeDay": 1756,
+    "timeWeek": 1731,
+    "timeMonth": 1790,
+    "timeYear": 1851,
     "dailyMinutesDown": {
-      "2025-10-18": 1
+      "2025-10-18": 7
     }
   },
   {
