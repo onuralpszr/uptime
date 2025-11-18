@@ -1,7 +1,7 @@
 url: https://app.element.io/
-status: up
-code: 200
-responseTime: 226
-lastUpdated: 2025-11-18T12:15:31.707Z
+status: down
+code: 500
+responseTime: 130
+lastUpdated: 2025-11-18T13:11:03.488Z
 startTime: 2021-07-28T19:15:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
