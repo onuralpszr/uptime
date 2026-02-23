@@ -18,7 +18,7 @@ sites:
   - name: Fedora Chat Matrix
     url: https://chat.fedoraproject.org/
   - name: CentOS Koji
-    url: https://koji.mbox.centos.org/koji/
+    url: https://kojihub.stream.centos.org/
   - name: Fedora Koji
     url: https://koji.fedoraproject.org/koji/
   - name: Github Stats
