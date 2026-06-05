@@ -327,17 +327,17 @@
     "url": "https://pagure.io/",
     "icon": "https://icons.duckduckgo.com/ip3/pagure.io.ico",
     "slug": "pagure-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "85.42%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.83%",
-    "time": 473,
-    "timeDay": 40,
-    "timeWeek": 428,
-    "timeMonth": 473,
-    "timeYear": 473,
+    "uptimeDay": "83.91%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.82%",
+    "time": 464,
+    "timeDay": 153,
+    "timeWeek": 422,
+    "timeMonth": 464,
+    "timeYear": 464,
     "dailyMinutesDown": {
       "2025-06-29": 27,
       "2025-06-30": 44,
@@ -353,7 +353,7 @@
       "2026-01-30": 187,
       "2026-03-25": 17,
       "2026-04-08": 30,
-      "2026-06-05": 58,
+      "2026-06-05": 79,
       "2026-06-04": 152
     }
   },
@@ -713,9 +713,9 @@
     "url": "https://koji.fedoraproject.org/koji/",
     "icon": "https://icons.duckduckgo.com/ip3/koji.fedoraproject.org.ico",
     "slug": "fedora-koji",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.09%",
@@ -743,7 +743,8 @@
       "2026-02-14": 40,
       "2026-03-13": 35,
       "2026-03-16": 46,
-      "2026-04-29": 25
+      "2026-04-29": 25,
+      "2026-06-05": 0
     }
   },
   {
