@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/onuralpsezer.com.ico",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "24.00%",
+    "uptime": "24.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.22%",
+    "uptimeYear": "42.37%",
     "time": 171,
     "timeDay": 241,
     "timeWeek": 241,
@@ -373,7 +373,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "42.15%",
+    "uptimeYear": "42.30%",
     "time": 793,
     "timeDay": 1270,
     "timeWeek": 915,
@@ -666,10 +666,10 @@
     "url": "https://gdgsamsun.org",
     "icon": "https://icons.duckduckgo.com/ip3/gdgsamsun.org.ico",
     "slug": "gdg-samsun-website",
-    "status": "up",
+    "status": "down",
     "uptime": "97.05%",
-    "uptimeDay": "25.56%",
-    "uptimeWeek": "3.65%",
+    "uptimeDay": "78.73%",
+    "uptimeWeek": "11.25%",
     "uptimeMonth": "37.70%",
     "uptimeYear": "94.81%",
     "time": 155,
@@ -697,7 +697,8 @@
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
-      "2026-07-07": 101
+      "2026-07-07": 101,
+      "2026-07-27": 0
     }
   }
 ]
