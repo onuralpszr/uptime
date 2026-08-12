@@ -1,7 +1,7 @@
 url: https://kojihub.stream.centos.org/
-status: down
-code: 503
-responseTime: 121
-lastUpdated: 2026-08-12T21:09:05.027Z
+status: up
+code: 200
+responseTime: 985
+lastUpdated: 2026-08-12T21:59:38.586Z
 startTime: 2021-07-28T19:15:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
